@@ -131,5 +131,3 @@ if dequeue_in = '1' and count > 0 then
 - **Fila**: Implementação circular eficiente com ponteiros head/tail
 - **Testbenches**: Cobertura completa de casos de teste incluindo edge cases. Como parte do aprendizado de testbenches, tive de aprender o que é wraparound, por exemplo.
 - **Documentação**: Scripts de simulação prontos para uso
-
-O projeto demonstra o correto funcionamento dos módulos individuais, preparando a base para a integração em um sistema com múltiplos domínios de relógio.
